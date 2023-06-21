@@ -16,13 +16,13 @@
 
 ## 💻 Sobre o projeto
 
-A iniciativa busca criar um ambiente Web dedicado à CSA Cajazeiras, com o objetivo de ampliar a divulgação desse movimento para um número maior de pessoas. Através dessa plataforma online, será possível compartilhar mais informações sobre a CSA de forma organizada, seus princípios, benefícios e como se envolver.
+A iniciativa busca criar um ambiente Web dedicado à CSA Cajazeiras, com o objetivo de ampliar a divulgação desse movimento para um maior número de pessoas. Através dessa plataforma online, será possível compartilhar mais informações sobre a CSA de forma organizada, seus princípios, benefícios e como se envolver.
 
 ---
 
 ## 🎨 Layout
 
-O layout está sem desenvolvimento.
+O layout está em desenvolvimento.
 
 Em breve...
 
@@ -46,7 +46,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 -   Editor:  **[Visual Studio Code](https://code.visualstudio.com/)**
 ---
 
-## 🦸 Autor(es)
+## 🦸 Autor
 
 <div>
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/97265556?v=4" width="100px;" alt=""/>
