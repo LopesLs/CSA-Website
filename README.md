@@ -16,7 +16,7 @@
 
 ## 💻 Sobre o projeto
 
-A iniciativa busca criar um ambiente Web dedicado à CSA Cajazeiras, com o objetivo de ampliar a divulgação desse movimento para um maior número de pessoas. Através dessa plataforma online, será possível compartilhar mais informações sobre a CSA de forma organizada, seus princípios, benefícios e como se envolver.
+A iniciativa busca criar um ambiente Web dedicado à CSA Cajazeiras, com o objetivo de ampliar a divulgação desse movimento para um maior número de pessoas. Através dessa plataforma online, será possível compartilhar mais informações sobre seus princípios, benefícios e como se envolver de forma organizada.
 
 ---
 
@@ -30,7 +30,7 @@ Em breve...
 
 ## 🛠 Tecnologias
 
-As seguintes ferramentas foram usadas na construção do projeto:
+As seguintes ferramentas foram serão na construção do projeto:
 
 #### **Website**
 - Html
@@ -38,7 +38,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - Javascript
 
 #### **Server**
-- Deploy utilizando firebase
+- Hospedagem utilizando Firebase
 
 #### **Utilitários**
 
