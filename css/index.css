@@ -1,0 +1,19 @@
+body {
+  background-color: #F8F8EC;
+}
+
+.green-text {
+  color: #0AA370;
+}
+
+.orange-text {
+  color: #FB8356;
+}
+
+.font-weight-bold {
+  font-weight: bold;
+}
+
+.nav-link {
+  color: #0AA370 !important;
+}
