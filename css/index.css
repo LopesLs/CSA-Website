@@ -1,5 +1,7 @@
 body {
   background-color: #F8F8EC;
+  height: 100vh;
+  width: 100vw;
 }
 
 .green-text {
@@ -7,6 +9,7 @@ body {
 }
 
 .orange-text {
+  font-size: 18pt !important;
   color: #FB8356;
 }
 
@@ -14,6 +17,11 @@ body {
   font-weight: bold;
 }
 
+.btn {
+  font-size: 14pt !important;
+}
+
 .nav-link {
+  font-size: 16pt !important;
   color: #0AA370 !important;
 }
