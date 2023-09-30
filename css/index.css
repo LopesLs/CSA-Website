@@ -1,7 +1,11 @@
 body {
   background-color: #F8F8EC;
-  height: 100vh;
+  min-height: 100%;
   width: 100vw;
+}
+
+span {
+  font-size: 18pt;
 }
 
 .green-text {
@@ -9,19 +13,55 @@ body {
 }
 
 .orange-text {
-  font-size: 18pt !important;
   color: #FB8356;
 }
 
 .font-weight-bold {
-  font-weight: bold;
+  font-weight: bolder !important;
 }
 
 .btn {
   font-size: 14pt !important;
+  border-radius: 90px !important;
+  width: 10rem !important;
+  height: 49px !important;
 }
 
 .nav-link {
   font-size: 16pt !important;
   color: #0AA370 !important;
+  transition: ease 0.3s !important;
+}
+
+.nav-link:hover {
+  font-weight: bolder !important;
+}
+
+.image-container {
+  position: relative;
+  width: 32rem;
+  height: 20rem;
+  margin: 3rem 0 2rem 0;
+}
+
+.image {
+  width: 100%;
+  height: 100%;
+}
+
+.leaf {
+  position: absolute;
+  top: -10%;
+  left: -10%;
+}
+
+.info {
+  display: block;
+  width: 100% !important;
+}
+
+.icon:hover {
+  background-color: #dbdbd0;
+  padding: 8px;
+  border-radius: 20px;
 }
