@@ -4,10 +4,6 @@ body {
   width: 100vw;
 }
 
-span {
-  font-size: 18pt;
-}
-
 .green-text {
   color: #0AA370;
 }
@@ -21,14 +17,11 @@ span {
 }
 
 .btn {
-  font-size: 14pt !important;
-  border-radius: 90px !important;
-  width: 10rem !important;
-  height: 49px !important;
+  border-radius: 1.5rem !important;
+  width: 8rem !important;
 }
 
 .nav-link {
-  font-size: 16pt !important;
   color: #0AA370 !important;
   transition: ease 0.3s !important;
 }
@@ -62,6 +55,7 @@ span {
 
 .icon:hover {
   background-color: #dbdbd0;
-  padding: 8px;
-  border-radius: 20px;
+  padding: 0.5rem;
+  border-radius: 1.2rem;
+  cursor: pointer;
 }
