@@ -18,7 +18,7 @@ body {
 
 .btn {
   border-radius: 1.5rem !important;
-  width: 8rem !important;
+  padding: 0.5rem 1rem !important;
 }
 
 .nav-link {
@@ -58,4 +58,28 @@ body {
   padding: 0.5rem;
   border-radius: 1.2rem;
   cursor: pointer;
+}
+
+.text-container {
+  max-width: 60%;
+}
+
+.section-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  margin: 2rem 0;
+}
+
+.main-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.hr {
+  width: 82%;
 }
